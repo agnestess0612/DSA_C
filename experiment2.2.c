@@ -1,4 +1,9 @@
-#include<stdio.h>
+                                                                            /*AGNES TESS THOMAS
+                                                                                  CSE-C/S3
+                                                                                      10*/
+
+
+#include<stdio.h>                              
 #define MAX 20
 void sparseRepresentation(int a[][MAX], int row1,int col1, int b[][3]);
 void display(int b[][3]);
